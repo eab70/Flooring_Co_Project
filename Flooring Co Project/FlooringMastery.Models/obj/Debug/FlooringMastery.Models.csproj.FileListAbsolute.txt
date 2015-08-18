@@ -1,0 +1,9 @@
+C:\Users\Apprentice\Documents\Visual Studio 2013\Projects\FlooringMasteryLis\FlooringMastery.Models\bin\Debug\FlooringMastery.Models.dll
+C:\Users\Apprentice\Documents\Visual Studio 2013\Projects\FlooringMasteryLis\FlooringMastery.Models\bin\Debug\FlooringMastery.Models.pdb
+C:\Users\Apprentice\Documents\Visual Studio 2013\Projects\FlooringMasteryLis\FlooringMastery.Models\obj\Debug\FlooringMastery.Models.dll
+C:\Users\Apprentice\Documents\Visual Studio 2013\Projects\FlooringMasteryLis\FlooringMastery.Models\obj\Debug\FlooringMastery.Models.pdb
+C:\GitHub\NicoleKarthan\FlooringMasteryLis\FlooringMastery.Models\bin\Debug\FlooringMastery.Models.dll
+C:\GitHub\NicoleKarthan\FlooringMasteryLis\FlooringMastery.Models\bin\Debug\FlooringMastery.Models.pdb
+C:\GitHub\NicoleKarthan\FlooringMasteryLis\FlooringMastery.Models\obj\Debug\FlooringMastery.Models.dll
+C:\GitHub\NicoleKarthan\FlooringMasteryLis\FlooringMastery.Models\obj\Debug\FlooringMastery.Models.pdb
+C:\GitHub\NicoleKarthan\FlooringMasteryLis\FlooringMastery.Models\obj\Debug\FlooringMastery.Models.csprojResolveAssemblyReference.cache

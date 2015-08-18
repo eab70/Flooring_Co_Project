@@ -1,0 +1,6 @@
+OrderNumber,CustomerName,State,TaxRate,ProductType,Area,CostPerSquareFoot,LaborCostPerSquareFoot,MaterialCost,LaborCost,Tax,Total
+0,mary,OH,0.0625,Wood,10,6.00,10.00,60.00,100.00,10.000000,170.000000
+0,Mary,OH,0.0625,Wood,10,6.00,10.00,60.00,100.00,10.000000,170.000000
+0,Mary,OH,0.0625,Wood,10,6.00,10.00,60.00,100.00,10.000000,170.000000
+0,mary,OH,0.0625,Wood,10,6.00,10.00,60.00,100.00,10.000000,170.000000
+0,mary,OH,0.0625,Wood,10,6.00,10.00,60.00,100.00,10.000000,170.000000

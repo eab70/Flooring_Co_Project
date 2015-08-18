@@ -1,0 +1,19 @@
+C:\Users\Apprentice\Documents\Visual Studio 2013\Projects\FlooringMasteryLis\FlooringMastery.UI\bin\Debug\DataFiles\Orders\Orders_05032015.txt
+C:\Users\Apprentice\Documents\Visual Studio 2013\Projects\FlooringMasteryLis\FlooringMastery.UI\bin\Debug\FlooringMastery.UI.exe.config
+C:\Users\Apprentice\Documents\Visual Studio 2013\Projects\FlooringMasteryLis\FlooringMastery.UI\bin\Debug\FlooringMastery.UI.exe
+C:\Users\Apprentice\Documents\Visual Studio 2013\Projects\FlooringMasteryLis\FlooringMastery.UI\bin\Debug\FlooringMastery.UI.pdb
+C:\Users\Apprentice\Documents\Visual Studio 2013\Projects\FlooringMasteryLis\FlooringMastery.UI\bin\Debug\FlooringMastery.BLL.dll
+C:\Users\Apprentice\Documents\Visual Studio 2013\Projects\FlooringMasteryLis\FlooringMastery.UI\bin\Debug\FlooringMastery.Models.dll
+C:\Users\Apprentice\Documents\Visual Studio 2013\Projects\FlooringMasteryLis\FlooringMastery.UI\bin\Debug\FlooringMastery.Data.dll
+C:\Users\Apprentice\Documents\Visual Studio 2013\Projects\FlooringMasteryLis\FlooringMastery.UI\bin\Debug\FlooringMastery.BLL.pdb
+C:\Users\Apprentice\Documents\Visual Studio 2013\Projects\FlooringMasteryLis\FlooringMastery.UI\bin\Debug\FlooringMastery.Models.pdb
+C:\Users\Apprentice\Documents\Visual Studio 2013\Projects\FlooringMasteryLis\FlooringMastery.UI\bin\Debug\FlooringMastery.Data.pdb
+C:\Users\Apprentice\Documents\Visual Studio 2013\Projects\FlooringMasteryLis\FlooringMastery.UI\obj\Debug\FlooringMastery.UI.csprojResolveAssemblyReference.cache
+C:\Users\Apprentice\Documents\Visual Studio 2013\Projects\FlooringMasteryLis\FlooringMastery.UI\obj\Debug\FlooringMastery.UI.exe
+C:\Users\Apprentice\Documents\Visual Studio 2013\Projects\FlooringMasteryLis\FlooringMastery.UI\obj\Debug\FlooringMastery.UI.pdb
+C:\GitHub\NicoleKarthan\FlooringMasteryLis\FlooringMastery.UI\obj\Debug\FlooringMastery.UI.csprojResolveAssemblyReference.cache
+C:\GitHub\NicoleKarthan\FlooringMasteryLis\FlooringMastery.UI\bin\Debug\FlooringMastery.UI.exe.config
+C:\GitHub\ElisabethBacus\FinalFlooringMasteryLis\FlooringMastery.UI\bin\Debug\FlooringMastery.UI.exe.config
+C:\Users\Apprentice\Documents\FinalFlooringMasteryLis\FlooringMastery.UI\bin\Debug\FlooringMastery.UI.exe.config
+E:\FinalFlooringMasteryLis\FlooringMastery.UI\bin\Debug\FlooringMastery.UI.exe.config
+C:\Users\Lis\Documents\FinalFlooringMasteryLis\FlooringMastery.UI\bin\Debug\FlooringMastery.UI.exe.config

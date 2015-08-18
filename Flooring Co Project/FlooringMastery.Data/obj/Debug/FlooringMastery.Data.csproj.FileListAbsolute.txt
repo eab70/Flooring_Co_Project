@@ -1,0 +1,14 @@
+C:\Users\Apprentice\Documents\Visual Studio 2013\Projects\FlooringMasteryLis\FlooringMastery.Data\bin\Debug\FlooringMastery.Data.dll
+C:\Users\Apprentice\Documents\Visual Studio 2013\Projects\FlooringMasteryLis\FlooringMastery.Data\bin\Debug\FlooringMastery.Data.pdb
+C:\Users\Apprentice\Documents\Visual Studio 2013\Projects\FlooringMasteryLis\FlooringMastery.Data\bin\Debug\FlooringMastery.Models.dll
+C:\Users\Apprentice\Documents\Visual Studio 2013\Projects\FlooringMasteryLis\FlooringMastery.Data\bin\Debug\FlooringMastery.Models.pdb
+C:\Users\Apprentice\Documents\Visual Studio 2013\Projects\FlooringMasteryLis\FlooringMastery.Data\obj\Debug\FlooringMastery.Data.csprojResolveAssemblyReference.cache
+C:\Users\Apprentice\Documents\Visual Studio 2013\Projects\FlooringMasteryLis\FlooringMastery.Data\obj\Debug\FlooringMastery.Data.dll
+C:\Users\Apprentice\Documents\Visual Studio 2013\Projects\FlooringMasteryLis\FlooringMastery.Data\obj\Debug\FlooringMastery.Data.pdb
+C:\GitHub\NicoleKarthan\FlooringMasteryLis\FlooringMastery.Data\bin\Debug\FlooringMastery.Data.dll
+C:\GitHub\NicoleKarthan\FlooringMasteryLis\FlooringMastery.Data\bin\Debug\FlooringMastery.Data.pdb
+C:\GitHub\NicoleKarthan\FlooringMasteryLis\FlooringMastery.Data\bin\Debug\FlooringMastery.Models.dll
+C:\GitHub\NicoleKarthan\FlooringMasteryLis\FlooringMastery.Data\bin\Debug\FlooringMastery.Models.pdb
+C:\GitHub\NicoleKarthan\FlooringMasteryLis\FlooringMastery.Data\obj\Debug\FlooringMastery.Data.csprojResolveAssemblyReference.cache
+C:\GitHub\NicoleKarthan\FlooringMasteryLis\FlooringMastery.Data\obj\Debug\FlooringMastery.Data.dll
+C:\GitHub\NicoleKarthan\FlooringMasteryLis\FlooringMastery.Data\obj\Debug\FlooringMastery.Data.pdb
